@@ -1,8 +1,26 @@
 aid: makershub
 name: Makershub
-description: 'Makershub is a company surfaced as a portfolio company of qed-investors and added to the
-  API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'MakersHub is AI-powered accounts payable (AP) automation software built
+  for the physical economy — construction, manufacturing, distribution, and trade
+  services businesses with high bill volume, job costing, and multi-entity operations.
+  Its WiseVision AI engine captures bills from any source and extracts 35+ fields
+  per invoice including line items, then automates GL coding, approval routing, purchase-order
+  (2- and 3-way) matching, and payment, syncing clean structured data in-house to
+  QuickBooks, NetSuite, Sage Intacct, and Xero. It also serves accounting firms, hospitality,
+  healthcare, nonprofits, real estate, and retail & wholesale, supports US and Canadian
+  multi-rate tax codes, and is SOC 2 Type II certified.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/6924606bee0b8a3f0b37b311/6957ed372c8b026b2c7420f8_Social%20Preview.jpg
 url: https://raw.githubusercontent.com/api-evangelist/makershub/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Fintech
+- Accounts Payable
+- AP Automation
+- Invoice Processing
+- Accounting
+- Payments
+- Financial Operations
+- Construction
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +49,35 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://makershub.ai
+  url: https://makershub.com
+- type: Login
+  url: https://makershub.ai/app/#/
+- type: SignUp
+  url: https://makershub.com/get-started
+- type: Pricing
+  url: https://makershub.com/pricing
+- type: Blog
+  url: https://makershub.com/blog
+- type: ChangeLog
+  url: https://makershub.com/product-updates
+- type: ChangeLog
+  url: changelog/makershub-changelog.yml
+- type: Support
+  url: https://makershub.com/contact-us
+- type: TermsOfService
+  url: https://makershub.com/terms
+- type: PrivacyPolicy
+  url: https://makershub.com/privacy
+- type: Compliance
+  url: https://makershub.com/blog/makershub-soc-2-compliance
+- type: LLMsTxt
+  url: llms/makershub-llms.txt
+- type: Conformance
+  url: conformance/makershub-conformance.yml
+- type: DomainSecurity
+  url: security/makershub-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1

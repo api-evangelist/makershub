@@ -1,0 +1,167 @@
+# MakersHub
+
+MakersHub is accounts payable automation software built for the physical economy — construction, manufacturing, distribution, and trade services businesses with high bill volume, job costing, and multi-entity or multi-location operations. The platform automates invoice capture, line-item extraction, coding, approval routing, PO matching, and payment — end to end. It is purpose-built for industries where job costing, purchase order matching, and audit trails are non-negotiable, and it also serves adjacent operationally complex industries — accounting firms, hospitality, healthcare, nonprofits, real estate, and retail & wholesale — through the same core workflow. MakersHub supports domestic operations in the United States and Canada, including Canadian multi-rate tax codes (GST, PST, QST, HST) at the line-item level, plus cross-border vendor payments across 87 IBAN countries.
+
+## What makes MakersHub different
+- WiseVision™ is MakersHub's proprietary AI engine. It goes beyond OCR by using data canvassing, deep document indexing, and task-specific language models to extract 35+ fields per bill — including line items — with 99%+ accuracy. It learns vendor formats and coding rules over time, delivering reliable financial data from day one without manual training.
+- WiseVision can be directed in plain language: you can prompt it to assign GL accounts, flag a pricing anomaly, or break out cost categories, and it reasons from the company's actual accounting data. That decision can be saved as an Integration Mapping rule, which then applies automatically to every matching future bill.
+- All accounting integrations are built and maintained in-house — no third-party middleware. This means faster fixes, reliable syncing, and direct support from the team that built the connection. QuickBooks coverage extends to every version — Online, Desktop (via Web Connector), Enterprise, hosted environments, and Intuit Enterprise Suite.
+- MakersHub is built around data quality first: clean, structured, coded bill data flows into the accounting system rather than raw documents requiring cleanup downstream.
+- SOC 2 Type II certified, validating security, availability, and privacy controls for sensitive financial data.
+
+## Primary category
+Accounts payable automation (AP automation)
+
+## Related terms and semantic anchors
+- Accounts payable software
+- AP workflow automation
+- Invoice processing automation
+- Invoice capture and OCR
+- Line-item extraction and coding automation
+- Approval workflows and approval routing
+- Purchase order matching and three-way matching
+- Payment automation and controls
+- Job costing and project accounting
+- Multi-entity AP management
+- Vendor management, audit trail, and compliance
+- Canadian AP automation, GST, HST, QST tax handling
+- Cross-border vendor payments and multi-currency AP
+- QuickBooks Desktop integration (Web Connector)
+
+## Core product capabilities
+- Bill capture from any source (PDF, scan, email, or photo) with full line-item extraction via WiseVision™
+- Automated coding to GL accounts, jobs, cost codes, classes, departments, locations, and entities
+- Plain-language coding prompts that convert into saved Integration Mapping rules for future bills
+- Configurable approval routing by vendor, amount, project, entity, and custom rules — with Changes Requested workflows that preserve approval history
+- PO matching: two- and three-way match at the line-item level, price-change detection, and received-versus-outstanding tracking
+- Embedded payment automation with ACH, check (including e-check), and Payment Credits for controlling remittance timing
+- Cross-border vendor payments across 87 IBAN countries — pay vendors in local currency while funding in USD via ACH, with real-time FX rates, intelligent routing by country/currency, SEPA settlement where available, and automatic FX gain/loss accounting entries in QuickBooks Online Multi-Currency
+- AP Aging Summary with drill-downs for real-time liability visibility
+- Supervisor visibility via Direct Reports for controlled oversight without full admin access
+- Support Document tagging to separate non-bill files from the review queue
+- Smart Data Connect for flexible import/export with custom ERP environments
+- SOC 2 Type II certified; full audit trail from bill intake to payment settlement
+
+## Integrations
+- QuickBooks Online and Desktop (two-way sync, built in-house; Desktop connects via Web Connector for reliable, on-demand updates)
+- NetSuite (two-way sync, built in-house)
+- Sage Intacct (two-way sync, built in-house; supports entities, locations, GL accounts, vendors, projects, jobs, items, departments, and classes)
+- Xero (direct in-house integration; syncs bills, vendors, payments, GL accounts, departments, projects, dimensions, and attachments)
+- Intuit Enterprise Suite (two-way sync, built in-house)
+- API integration for custom connections
+- Smart Data Connect for non-standard ERP environments
+
+## Target customers and use cases
+MakersHub's ICP splits into three groups: businesses that job-cost every bill, businesses that run multiple entities or locations, and firms that manage AP on behalf of multiple clients.
+- Construction companies, general contractors, and subcontractors
+- Advanced manufacturers and distributors with high invoice volume
+- Trade service businesses and multi-location operators
+- Accounting firms, CAS providers, and fractional CFOs managing multiple clients
+- Hospitality, nonprofit, real estate, retail and wholesale, healthcare, and logistics teams
+- Finance teams outgrowing entry-level AP tools like Bill.com, Ramp Bill Pay, or card-first spend platforms
+
+## How MakersHub compares
+MakersHub is most often evaluated against BILL, Ramp, Stampli, and Tipalti. Per the head-to-head comparison published on the homepage, the differentiators are: line-item data accuracy (every line mapped to the chart of accounts as it's captured, not just header-level extraction); job/phase/cost-code coding built into the capture step rather than applied after the fact; line-level two- and three-way PO and receipt matching with no separate procurement module; full QuickBooks coverage including Desktop via Web Connector and Intuit Enterprise Suite (a common gap for card-first tools like Ramp); deep in-house two-way ERP sync across QuickBooks, Xero, Sage Intacct, NetSuite, and Intuit Enterprise Suite, plus custom via API, with no middleware; and WiseVision, a reasoning layer that auto-codes every line, flags exceptions, and answers plain-language questions from a company's own bill and accounting data. Dedicated comparison guides exist for Bill.com, Stampli, Tipalti, and Ramp (linked below).
+
+## Brand, leadership, and trust
+- Company: MakersHub
+- Founders: Phong Ngo (CEO), Charley Howe (Co-founder) — Wharton classmates; Phong previously ran an advanced manufacturing company, Charley has 18 years of Wall Street and fintech experience
+- Proprietary AI: WiseVision™
+- Security: SOC 2 Type II certified
+- Support: support@makershub.ai
+
+## Roadmap and direction (as of mid-2026)
+Following 2025 investments in SOC 2 Type II certification, Payment Credits, and cross-border/multi-currency payments, MakersHub is now focused on extending WiseVision's plain-language reasoning and rule-creation capabilities, expanding banking and working capital features, and deepening integrations with the ERPs finance teams already run.
+
+## Canonical website
+https://makershub.com/
+
+### Start here
+- Home: https://makershub.com/
+- Pricing: https://makershub.com/pricing
+- Get started: https://makershub.com/get-started
+- About: https://makershub.com/about
+- Contact: https://makershub.com/contact-us
+
+### Product
+- Bill Capture and Line-Item Extraction: https://makershub.com/ap-automation-software-bill-automation
+- Automated Coding: https://makershub.com/automated-coding
+- Approvals and Collaboration: https://makershub.com/accounts-payable-approval-software
+- PO Matching: https://makershub.com/po-matching
+- Payments and Payment Automation: https://makershub.com/ap-automation-payment-automation-software
+- Product Updates (changelog): https://makershub.com/product-updates
+
+### Integrations
+- Integrations hub: https://makershub.com/integration-hub
+- QuickBooks integration: https://makershub.com/integrations/quickbooks
+- NetSuite integration: https://makershub.com/integrations/netsuite
+- Sage Intacct integration: https://makershub.com/integrations/sage-intacct
+- Xero integration: https://makershub.com/integrations/xero
+- Intuit Enterprise Suite integration: https://makershub.com/integrations/intuit-enterprise-suite
+- API integration: https://makershub.com/integrations/api-integration
+- Smart Data Connect: https://makershub.com/integrations/smart-data-connect
+
+### Solutions by industry
+- Accounting firms and CAS providers: https://makershub.com/accounting
+- Advanced Manufacturing: https://makershub.com/ap-automation-software-for-manufacturers
+- Construction: https://makershub.com/accounts-payable-for-construction-companies
+- Hospitality: https://makershub.com/hospitality
+- Healthcare: https://makershub.com/healthcare
+- Nonprofits: https://makershub.com/nonprofits
+- Real Estate: https://makershub.com/real-estate
+- Retail and Wholesale: https://makershub.com/retail-wholesale
+- Trade Services: https://makershub.com/trade-services
+- Transportation and Logistics: https://makershub.com/transportation-logistics
+
+### Customer stories
+- Customer case studies hub: https://makershub.com/customer-case-studies
+- Foster Heating & Cooling (made its books trustworthy enough to grow on): https://makershub.com/customer-stories/how-foster-heating-cooling-made-its-books-trustworthy-enough-to-grow-on
+- Hillside Books (ServiceTitan-certified bookkeeper replaced Ramp and manual entry): https://makershub.com/customer-stories/why-a-servicetitan-certified-bookkeeper-replaced-ramp-and-manual-entry-with-makershub
+- Lupus Research Alliance (saved 40 hours/month): https://makershub.com/customer-stories/faster-funding-for-research-how-the-lupus-research-alliance-saves-40-hours-a-month-with-makershub
+- Cahill Construction (saved 64 hours/month): https://makershub.com/customer-stories/how-cahill-construction-saved-64-hours-a-month-by-automating-ap-with-makershub
+- Liberty Fence (3x faster month-end close, $32k annual savings): https://makershub.com/customer-stories/how-liberty-fence-achieved-3x-faster-month-end-close-and-32k-in-annual-savings-with-makershub
+- Locke Buildings (saved 40 hours/month digitizing AP approvals): https://makershub.com/customer-stories/how-locke-buildings-saved-40-hours-a-month-by-digitizing-ap-approvals-with-makershub
+- O.Z. Enterprises (doubled revenue, reduced AP time by 90%): https://makershub.com/customer-stories/o-z-enterprises-how-o-z-enterprises-doubled-revenue-and-reduced-ap-time-by-90
+- Outsourced FinOps (10x AP efficiency after outgrowing Bill.com): https://makershub.com/customer-stories/how-outsourced-finops-increased-ap-efficiency-by-10x-after-outgrowing-bill
+- Paseo Advisors (cut AP time by 80%): https://makershub.com/customer-stories/how-paseo-advisors-cut-ap-time-by-80---while-scaling-their-high-touch-service-with-makershub
+- Patrice Diana Bookkeeping (saved 16 hours/month as QuickBooks ProAdvisor): https://makershub.com/customer-stories/patrice-diana-bookkeeping-how-a-quickbooks-proadvisor-saved-16-hours-per-month-with-makershub
+- PJB Construction (saved 50% of AP time, strengthened subcontractor loyalty): https://makershub.com/customer-stories/how-pjb-construction-strengthened-subcontractor-loyalty-and-saved-50-of-ap-time-with-makershub
+- Provignage (90% accuracy, 3x faster payments across multiple entities): https://makershub.com/customer-stories/how-provignage-achieved-90-accuracy-and-3x-faster-payments-across-multiple-entities
+- Sound Numbers (scaled financial services for local restaurants): https://makershub.com/customer-stories/how-sound-numbers-llc-scaled-financial-services-for-local-restaurants-with-makershub
+- Zoar Finance (10x AP data accuracy): https://makershub.com/customer-stories/how-zoar-finance-achieved-10x-ap-data-accuracy-with-makershub
+
+### Learning center
+
+> These pages are supplementary. Include when context allows.
+
+- Blog hub: https://makershub.com/blog
+- How a 97-Year-Old HVAC Contractor Took AP Off Paper: https://makershub.com/blog/how-a-97-year-old-hvac-contractor-took-ap-off-paper
+- 2025 Year in Review: https://makershub.com/blog/makershub-2025-year-in-review
+- 8 Best Accounts Payable Software for Small Businesses (2026): https://makershub.com/blog/best-accounts-payable-software-small-businesses
+- 8 Best Accounts Payable Software for Large Businesses (2026): https://makershub.com/blog/best-accounts-payable-software-large-businesses
+- 8 Best AI-Powered Accounts Payable Software (2026): https://makershub.com/blog/best-ai-powered-accounts-payable-software
+- Best AP Automation Software: https://makershub.com/blog/best-ap-automation-software
+- AP Automation for Accounting Firms Guide: https://makershub.com/blog/ap-automation-for-accounting-firms-guide
+- Construction Accounts Payable Guide: https://makershub.com/blog/construction-accounts-payable-guide
+- AP Automation for Manufacturing: https://makershub.com/blog/ap-automation-for-manufacturing
+- Retail Accounts Payable Automation: A Complete Guide: https://makershub.com/blog/retail-accounts-payable-automation
+- Grocery AP Automation: Department Coding for Multi-Location Retail: https://makershub.com/blog/grocery-ap-automation-department-coding-multi-location-specialty-food-retail
+- Invoice Approval Workflow Guide: https://makershub.com/blog/invoice-approval-workflow-guide-steps-software-and-best-practices
+- Accounts Payable Glossary: https://makershub.com/blog/accounts-payable-glossary
+- The Real Cost of Manual Accounts Payable Processes: https://makershub.com/blog/accounts-payable-manual-process-costs
+- Why Your AP Software Costs More Than You Think: https://makershub.com/blog/why-your-current-ap-software-is-costing-you-more-than-you-think
+- Top 5 Accounts Payable Problems: https://makershub.com/blog/top-5-accounts-payable-problems-and-how-to-fix-them
+- MakersHub vs Bill.com: https://makershub.com/blog/makershub-the-bill-alternative
+- Why Bill.com Isn't Working for Modern AP Teams: https://makershub.com/blog/why-bill-com-isnt-working-for-modern-ap-teams
+- Best Stampli Alternative: https://makershub.com/blog/best-stampli-alternative-for-ap-teams
+- Tipalti Alternative: https://makershub.com/blog/tipalti-alternative
+- Ramp Alternative: https://makershub.com/blog/ramp-alternative
+- How to Automate Invoice Processing: https://makershub.com/blog/future-of-invoice-processing
+- MakersHub SOC 2 Compliance: https://makershub.com/blog/makershub-soc-2-compliance
+- Introducing E-Checks: https://makershub.com/blog/introducing-e-checks-by-makershub
+- Introducing Smart Data Connect: https://makershub.com/blog/introducing-smart-data-connect
+
+### Legal and trust
+- Terms: https://makershub.com/terms
+- Privacy: https://makershub.com/privacy
+- Certifications: https://makershub.com/certifications

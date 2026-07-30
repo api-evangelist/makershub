@@ -1,0 +1,68 @@
+generated: '2026-07-20'
+method: searched
+source: https://makershub.com/product-updates
+scheme: dated-product-updates
+versioning: none
+current_version: null
+notes: >-
+  MakersHub publishes a dated product-updates feed rather than a semantic-versioned
+  changelog. Entries are product/feature announcements for the SaaS application; there
+  is no public developer API surface, so entries are not tied to API versions. Recent
+  window captured below (most recent first).
+entries:
+- date: '2026-07-15'
+  title: QuickBooks Online Bill Markup % Support
+  type: addition
+  breaking: false
+  highlight: Full support for markup percentage fields in QuickBooks Online and Intuit
+    Enterprise Suite bill records.
+- date: '2026-06-23'
+  title: Multi-Company Browser Session Enhancement
+  type: addition
+  breaking: false
+  highlight: Maintain separate company sessions across different browser tabs simultaneously.
+- date: '2026-06-08'
+  title: Configurable Invoice Data Export
+  type: addition
+  breaking: false
+  highlight: Power users can create custom export templates directly within the application.
+- date: '2026-05-20'
+  title: Integration Mapping Enhancement
+  type: improvement
+  breaking: false
+  highlight: Redesigned automation engine with advanced rule logic and multi-field
+    mapping capabilities.
+- date: '2026-05-19'
+  title: Quick Edit Mode for Rules and Criteria
+  type: addition
+  breaking: false
+  highlight: Keyboard shortcuts enable faster rule building with one-click actions
+    via Cmd/Ctrl key.
+- date: '2026-05-01'
+  title: Line Item Reconciliation Unit Conversion
+  type: addition
+  breaking: false
+  highlight: Automatic unit-price recalculation while keeping totals fixed during
+    conversions.
+- date: '2026-04-30'
+  title: Smart PDF Viewer for Invoice Review
+  type: addition
+  breaking: false
+  highlight: Displays only relevant invoice pages, preventing confusion with multi-page
+    documents.
+- date: '2026-04-28'
+  title: Payables Dashboard Performance Improvement
+  type: improvement
+  breaking: false
+  highlight: Load times reduced from ~5.8 seconds to ~36 milliseconds.
+- date: '2026-04-25'
+  title: Batch Import Bills and Vendor Credits from Spreadsheets
+  type: addition
+  breaking: false
+  highlight: Bulk creation of bills from spreadsheet imports with column mapping.
+- date: '2026-04-25'
+  title: Custom Field Filtering
+  type: addition
+  breaking: false
+  highlight: Reports now support filtering by custom fields including text, numbers,
+    and lists.

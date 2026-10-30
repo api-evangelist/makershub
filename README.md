@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Makershub is a company surfaced as a portfolio company of qed-investors and added to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.
+MakersHub is AI-powered accounts payable (AP) automation software built for the physical economy — construction, manufacturing, distribution, and trade services businesses with high bill volume, job costing, and multi-entity operations. Its WiseVision AI engine captures bills from any source and extracts 35+ fields per invoice including line items, then automates GL coding, approval routing, purchase-order (2- and 3-way) matching, and payment, syncing clean structured data in-house to QuickBooks, NetSuite, Sage Intacct, and Xero. It also serves accounting firms, hospitality, healthcare, nonprofits, real estate, and retail & wholesale, supports US and Canadian multi-rate tax codes, and is SOC 2 Type II certified.
 
-Backed by: qed-investors — https://makershub.ai
+**Areas:** Company · Fintech · Accounts Payable · AP Automation · Invoice Processing · Accounting · Payments · Financial Operations · Construction
+
+## Makershub on APIs.io
+
+Everything profiled for Makershub is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/makershub/](https://apis.io/providers/makershub/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Makershub Domain Security](https://apis.io/security/makershub/makershub-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://makershub.com)
+- [Pricing](https://makershub.com/pricing)
+- [Sign up](https://makershub.com/get-started)
+- [Support](https://makershub.com/contact-us)
+- [Changelog](https://makershub.com/product-updates)
+- [Blog](https://makershub.com/blog)
+- [Compliance](https://makershub.com/blog/makershub-soc-2-compliance)
+- [Terms of service](https://makershub.com/terms)
+- [Privacy policy](https://makershub.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 22.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 52.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 21.4** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/makershub/](https://apis.io/providers/makershub/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Makershub: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/makershub/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
